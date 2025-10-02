@@ -1,0 +1,1 @@
+hash(AB)=12, hash(CD)=12
